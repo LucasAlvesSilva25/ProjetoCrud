@@ -1,0 +1,12 @@
+D:\TropTech - Integração Banco de dados\Projeto CRUD\MercadoZe\MercadoZe.Classes\bin\Debug\net5.0\MercadoZe.Classes.deps.json
+D:\TropTech - Integração Banco de dados\Projeto CRUD\MercadoZe\MercadoZe.Classes\bin\Debug\net5.0\MercadoZe.Classes.dll
+D:\TropTech - Integração Banco de dados\Projeto CRUD\MercadoZe\MercadoZe.Classes\bin\Debug\net5.0\MercadoZe.Classes.pdb
+D:\TropTech - Integração Banco de dados\Projeto CRUD\MercadoZe\MercadoZe.Classes\obj\Debug\net5.0\MercadoZe.Classes.csproj.AssemblyReference.cache
+D:\TropTech - Integração Banco de dados\Projeto CRUD\MercadoZe\MercadoZe.Classes\obj\Debug\net5.0\MercadoZe.Classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\TropTech - Integração Banco de dados\Projeto CRUD\MercadoZe\MercadoZe.Classes\obj\Debug\net5.0\MercadoZe.Classes.AssemblyInfoInputs.cache
+D:\TropTech - Integração Banco de dados\Projeto CRUD\MercadoZe\MercadoZe.Classes\obj\Debug\net5.0\MercadoZe.Classes.AssemblyInfo.cs
+D:\TropTech - Integração Banco de dados\Projeto CRUD\MercadoZe\MercadoZe.Classes\obj\Debug\net5.0\MercadoZe.Classes.csproj.CoreCompileInputs.cache
+D:\TropTech - Integração Banco de dados\Projeto CRUD\MercadoZe\MercadoZe.Classes\obj\Debug\net5.0\MercadoZe.Classes.dll
+D:\TropTech - Integração Banco de dados\Projeto CRUD\MercadoZe\MercadoZe.Classes\obj\Debug\net5.0\refint\MercadoZe.Classes.dll
+D:\TropTech - Integração Banco de dados\Projeto CRUD\MercadoZe\MercadoZe.Classes\obj\Debug\net5.0\MercadoZe.Classes.pdb
+D:\TropTech - Integração Banco de dados\Projeto CRUD\MercadoZe\MercadoZe.Classes\obj\Debug\net5.0\ref\MercadoZe.Classes.dll

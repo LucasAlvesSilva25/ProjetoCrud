@@ -1,0 +1,15 @@
+D:\TropTech - Integração Banco de dados\Projeto CRUD\MercadoZe\MercadoZe.Intran.Data\bin\Debug\net5.0\MercadoZe.Intran.Data.deps.json
+D:\TropTech - Integração Banco de dados\Projeto CRUD\MercadoZe\MercadoZe.Intran.Data\bin\Debug\net5.0\MercadoZe.Intran.Data.dll
+D:\TropTech - Integração Banco de dados\Projeto CRUD\MercadoZe\MercadoZe.Intran.Data\bin\Debug\net5.0\MercadoZe.Intran.Data.pdb
+D:\TropTech - Integração Banco de dados\Projeto CRUD\MercadoZe\MercadoZe.Intran.Data\bin\Debug\net5.0\MercadoZe.Domain.dll
+D:\TropTech - Integração Banco de dados\Projeto CRUD\MercadoZe\MercadoZe.Intran.Data\bin\Debug\net5.0\MercadoZe.Domain.pdb
+D:\TropTech - Integração Banco de dados\Projeto CRUD\MercadoZe\MercadoZe.Intran.Data\obj\Debug\net5.0\MercadoZe.Intran.Data.csproj.AssemblyReference.cache
+D:\TropTech - Integração Banco de dados\Projeto CRUD\MercadoZe\MercadoZe.Intran.Data\obj\Debug\net5.0\MercadoZe.Intran.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\TropTech - Integração Banco de dados\Projeto CRUD\MercadoZe\MercadoZe.Intran.Data\obj\Debug\net5.0\MercadoZe.Intran.Data.AssemblyInfoInputs.cache
+D:\TropTech - Integração Banco de dados\Projeto CRUD\MercadoZe\MercadoZe.Intran.Data\obj\Debug\net5.0\MercadoZe.Intran.Data.AssemblyInfo.cs
+D:\TropTech - Integração Banco de dados\Projeto CRUD\MercadoZe\MercadoZe.Intran.Data\obj\Debug\net5.0\MercadoZe.Intran.Data.csproj.CoreCompileInputs.cache
+D:\TropTech - Integração Banco de dados\Projeto CRUD\MercadoZe\MercadoZe.Intran.Data\obj\Debug\net5.0\MercadoZe.Intran.Data.csproj.CopyComplete
+D:\TropTech - Integração Banco de dados\Projeto CRUD\MercadoZe\MercadoZe.Intran.Data\obj\Debug\net5.0\MercadoZe.Intran.Data.dll
+D:\TropTech - Integração Banco de dados\Projeto CRUD\MercadoZe\MercadoZe.Intran.Data\obj\Debug\net5.0\refint\MercadoZe.Intran.Data.dll
+D:\TropTech - Integração Banco de dados\Projeto CRUD\MercadoZe\MercadoZe.Intran.Data\obj\Debug\net5.0\MercadoZe.Intran.Data.pdb
+D:\TropTech - Integração Banco de dados\Projeto CRUD\MercadoZe\MercadoZe.Intran.Data\obj\Debug\net5.0\ref\MercadoZe.Intran.Data.dll
